@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589039401388.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1490839481",
+    "id" : "8B2EFB12",
+    "lastKnownWriteTime" : 1589046438,
+    "last_content_update" : 1589046438424,
+    "path" : "~/projs/code_portfolio/R/split.R",
+    "project_path" : "split.R",
+    "properties" : {
+        "cursorPosition" : "67,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

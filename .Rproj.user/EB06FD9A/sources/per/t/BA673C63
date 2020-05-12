@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588432160777.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "220950016",
+    "id" : "BA673C63",
+    "lastKnownWriteTime" : 1588435853,
+    "last_content_update" : 1588435853165,
+    "path" : "~/projs/r_showcase/lissajous_gif.R",
+    "project_path" : "lissajous_gif.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

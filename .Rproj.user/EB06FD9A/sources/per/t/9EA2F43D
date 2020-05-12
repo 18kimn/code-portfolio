@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587531299285.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3417766061",
+    "id" : "9EA2F43D",
+    "lastKnownWriteTime" : 1587533392,
+    "last_content_update" : 1587533392030,
+    "path" : "~/projs/r_showcase/rotate_matrix.R",
+    "project_path" : "rotate_matrix.R",
+    "properties" : {
+        "cursorPosition" : "10,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

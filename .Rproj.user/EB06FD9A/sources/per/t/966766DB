@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588039129392.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1351213328",
+    "id" : "966766DB",
+    "lastKnownWriteTime" : 1588085947,
+    "last_content_update" : 1588085947357,
+    "path" : "~/projs/r_showcase/puzzle_game.R",
+    "project_path" : "puzzle_game.R",
+    "properties" : {
+        "cursorPosition" : "14,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

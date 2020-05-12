@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589039733931.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1383033672",
+    "id" : "715C7B17",
+    "lastKnownWriteTime" : 1587531251,
+    "last_content_update" : 1587531251,
+    "path" : "~/projs/code_portfolio/R/sum_to_100.R",
+    "project_path" : "sum_to_100.R",
+    "properties" : {
+        "cursorPosition" : "12,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

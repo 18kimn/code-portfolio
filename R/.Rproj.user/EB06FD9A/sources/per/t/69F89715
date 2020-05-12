@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588973131888.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "852952723",
+    "id" : "69F89715",
+    "lastKnownWriteTime" : 1589046671,
+    "last_content_update" : 1589046671891,
+    "path" : "~/projs/code_portfolio/R/palindrome.R",
+    "project_path" : "palindrome.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

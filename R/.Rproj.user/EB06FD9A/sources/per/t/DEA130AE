@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589037469779.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3421819164",
+    "id" : "DEA130AE",
+    "lastKnownWriteTime" : 1587527681,
+    "last_content_update" : 1587527681,
+    "path" : "~/projs/code_portfolio/R/largest_num.R",
+    "project_path" : "largest_num.R",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
